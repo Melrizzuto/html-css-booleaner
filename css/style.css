@@ -20,3 +20,17 @@
     width: 30%;
     padding-top: 50px;
 }
+
+main h1{
+    font-size: 70px;
+}
+
+.testo-grigio{
+    font-size: 15px;
+    color: rgb(164, 158, 158);
+}
+
+.testo-azzurro{
+  color: rgb(0, 153, 255);
+
+}
