@@ -26,11 +26,19 @@ main h1{
 }
 
 .testo-grigio{
-    font-size: 15px;
+    font-size: 20px;
     color: rgb(164, 158, 158);
 }
 
 .testo-azzurro{
   color: rgb(0, 153, 255);
 
+}
+
+#testo-piccolo{
+    font-size: 15px;
+}
+
+.padding-top{
+    padding-top: 20px;
 }
