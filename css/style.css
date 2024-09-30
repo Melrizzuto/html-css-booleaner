@@ -85,9 +85,18 @@ div h3{
   padding-top: 10px;
 }
 
+ul {
+  list-style: disc inside none;
+}
+
+th{
+  color: white;
+  padding: 5px;
+}
 td {
   padding: 10px;
 }
+
 
 .background-blue{
   background-color: rgb(0, 153, 255) ;
@@ -95,4 +104,8 @@ td {
 
 .background-lightblue{
   background-color: lightblue;
+}
+
+.allineamentotesto-sx {
+  text-align: left;
 }
