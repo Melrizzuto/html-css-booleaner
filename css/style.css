@@ -35,10 +35,26 @@ main h1{
 
 }
 
-#testo-piccolo{
-    font-size: 15px;
+.testo-piccolo{
+    font-size: 12px;
 }
 
 .padding-top{
     padding-top: 20px;
+}
+
+.yellow-highlighter{
+  background-color: yellow;
+}
+
+section ul{
+  padding-top: 20px;
+}
+
+.testo-centro{
+  text-align: center;
+}
+
+.testo-destra{
+  text-align: right;
 }
