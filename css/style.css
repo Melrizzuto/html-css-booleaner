@@ -73,3 +73,9 @@ section ul{
 #box-img2{
   background-image: url('../img/graph.jpg');
 }
+
+div h3{
+  color: white;
+  font-size: 20px;
+  padding-top: 10px;
+}
