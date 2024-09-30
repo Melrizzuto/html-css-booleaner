@@ -58,3 +58,18 @@ section ul{
 .testo-destra{
   text-align: right;
 }
+.boximmagine{
+  background-size: cover;
+  width: 200px;
+  height: 150px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+#box-img1{
+  background-image: url('../img/monitor.jpg');
+ 
+}
+
+#box-img2{
+  background-image: url('../img/graph.jpg');
+}
