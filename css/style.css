@@ -10,20 +10,24 @@ body{
     font-style: normal;
 }
 
+.container{
+  max-width: 1200px;
+  border: 1px solid red;
+  margin: 0 auto;
+
+}
 
   header{
-    height:120px;
+    height: 120px;
     background-color: rgb(0, 153, 255);
     background-image: url('../img/pattern.png');
     background-size: 30%;
   }
 
-  #logo{
-    width: 30%;
-    width: 20%;
-    height: 10%;
-    padding-top: 30px;
-}
+  #logo img{
+    width: 200px;
+    height: auto;
+  }
 
 main, footer{
   margin: 5px;
