@@ -52,17 +52,13 @@ main h1{
   background-color: yellow;
 }
 
-section ul{
+ul {
+  list-style: disc inside none;
+}
+div ul{
   padding-top: 20px;
 }
 
-.testo-centro{
-  text-align: center;
-}
-
-.testo-destra{
-  text-align: right;
-}
 .boximmagine{
   background-size: cover;
   width: 200px;
@@ -86,9 +82,7 @@ div h3{
   padding-top: 10px;
 }
 
-ul {
-  list-style: disc inside none;
-}
+
 
 th{
   color: white;
