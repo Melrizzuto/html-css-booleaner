@@ -87,10 +87,11 @@ div h3{
 
 th{
   color: white;
-  padding: 5px;
+  width: 30%;
+  text-align: left;
 }
 td {
-  padding: 10px;
+  padding: 2px;
 }
 
 .background-blue{
@@ -99,8 +100,4 @@ td {
 
 .background-lightblue{
   background-color: lightblue;
-}
-
-.allineamentotesto-sx {
-  text-align: left;
 }
