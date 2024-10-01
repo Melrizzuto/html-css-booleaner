@@ -28,7 +28,9 @@ body{
 main, footer{
   margin: 5px;
 }
-
+table{
+  border-collapse: collapse;
+}
 main h1{
     font-size: 70px;
 }
@@ -64,8 +66,9 @@ div ul{
 
 .boximmagine{
   background-size: cover;
-  width: 200px;
-  height: 150px;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
   margin-bottom: 10px;
   margin-top: 10px;
   text-align: center;
